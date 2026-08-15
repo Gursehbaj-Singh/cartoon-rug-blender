@@ -1,2 +1,33 @@
-# cartoon-rug-blender
-A Blender 3D cartoon rug project featuring custom modeling, UV mapping, image texturing, fur fibers, and PBR materials.
+# 🧶 Cartoon Rug — Blender 3D Project
+
+![Cartoon Rug Render](Cartoon_Rug_Render.PNG)
+
+A cartoon-style 3D rug created in Blender as a portfolio project.
+
+## 🛠️ Skills Demonstrated
+
+- 3D modeling
+- UV mapping
+- Image texturing
+- Fur/fiber creation
+- Material setup
+- PBR workflow
+- Lighting and rendering
+- OBJ-ready asset workflow
+
+## 🎨 Project
+
+The rug was modeled and textured in Blender, with a printed cartoon design applied to the surface and a short fiber/fur material used to create the rug appearance.
+
+## 📦 Files
+
+- `Rug.blend` — Blender source file
+- `Cartoon_Rug_Render.PNG` — Final render
+
+## 🖥️ Software
+
+- Blender
+
+## ⚠️ Artwork
+
+The character artwork shown in the demonstration render is used only to demonstrate the 3D modeling/texturing workflow. The character/IP is not claimed as original artwork by the author.
