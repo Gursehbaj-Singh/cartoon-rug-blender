@@ -28,6 +28,7 @@ The rug was modeled and textured in Blender, with a printed cartoon design appli
 
 - Blender
 
-## ⚠️ Artwork
+## Author
 
-The character artwork shown in the demonstration render is used only to demonstrate the 3D modeling/texturing workflow. The character/IP is not claimed as original artwork by the author.
+Gursehbaj Singh
+3D Modeling & Blender Artist
